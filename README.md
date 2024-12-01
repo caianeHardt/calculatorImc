@@ -1,2 +1,4 @@
-# calculatorImc
-Calculadora de indice de massa corporal com historico
+#App de cálculo de índice de massa corporal com histórico
+
+Criado com Java
+
